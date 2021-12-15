@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yukikeimatsu/rensyuTS/issues"
   },
-  "homepage": "https://github.com/yukikeimatsu/rensyuTS#readme"
+  "homepage": "https://github.com/yukikeimatsu/rensyuTS#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
